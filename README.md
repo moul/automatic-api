@@ -18,6 +18,8 @@ GitHub stats updated 2017-12-24. The commit count and the latest commit date are
 
 # Contributing
 
+[![GuardRails badge](https://badges.production.guardrails.io/moul/automatic-api.svg)](https://www.guardrails.io)
+
 Your contributions are welcome! Please submit a pull request or create an issue to add a new project to the list or to update an existing one. See [CONTRIBUTING](./CONTRIBUTING.md) for the details.
 
 # License
